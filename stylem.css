@@ -1,0 +1,49 @@
+body{
+  background-image: url('/images/sonic2.jpeg')
+}
+img {
+  image-rendering: optimizeSpeed;
+  vertical-align: middle;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+  font-size: 14px;
+  font-family: sans-serif;
+  font-weight: normal;
+  border-style: solid;
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+  border-width: 2px;
+  color: #ffffff;
+  border-color: #c0c0c0;
+  background-color: #000080;
+  padding: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-right: 175px;
+}
+h2 {
+ font-size: 14px;
+ font-family: sans-serif;
+ font-weight: normal;
+ text-align: center;
+ border-style: solid;
+ margin-top: 0;
+ margin-left: 0;
+ margin-right: 0;
+ margin-bottom: 5px;
+ display: inline-block;
+ vertical-align: top;
+ border-width: 2px;
+ color: #ffffff;
+ border-color: #c0c0c0;
+ background-color: #c0c0c0;
+ padding-top: 94px;
+ padding-bottom: 94px;
+ width: 313px;
+}
