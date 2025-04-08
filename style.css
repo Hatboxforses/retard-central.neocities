@@ -7,7 +7,7 @@ a {
   text-decoration: none;
 }
 h1 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid;
@@ -23,7 +23,7 @@ h1 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 198px
+  padding-right: 208px
 }
 h3 {
  border-style: solid;
@@ -41,7 +41,7 @@ h3 {
  padding-bottom: 0;
 }
 h2 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid; 
@@ -57,10 +57,10 @@ h2 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 199px
+  padding-right: 214px
 }
 h4 {
- font-size: 14px;
+ font-size: 10px;
  font-family: sans-serif;
  font-weight: normal;
  text-align: center;
@@ -75,12 +75,12 @@ h4 {
  color: #141414;
  border-color: #c0c0c0;
  background-color: #c0c0c0;
- padding-top: 94px;
- padding-bottom: 94px;
+ padding-top: 96px;
+ padding-bottom: 96px;
  width: 288px;
 }
 h5 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid; 
@@ -93,10 +93,10 @@ h5 {
   color: #ffffff;
   border-color: #c0c0c0;
   background-color: #000080;
-  padding: 5px;
+  padding-left: 5px;
   padding-top: 0;
   padding-bottom: 0;
-  padding-right: 510px;
+  padding-right: 522px;
 }
 h6 {
  border-style: solid;
@@ -114,7 +114,7 @@ h6 {
  padding-bottom: 0;
 }
 h7 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid; 
@@ -133,7 +133,7 @@ h7 {
   padding-right: 462px;
 }
 h8 {
- font-size: 14px;
+ font-size: 10px;
  font-family: sans-serif;
  font-weight: normal;
  border-style: solid;
@@ -146,13 +146,13 @@ h8 {
  color: #141414;
  border-color: #c0c0c0;
  background-color: #c0c0c0;
- padding-right: 1px;
+ padding-right: 4px;
  padding-left: 2px;
  padding-top: 0;
  padding-bottom: 0;
 }
 h9 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid;
@@ -168,7 +168,7 @@ h9 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 204px
+  padding-right: 213px
 }
 h11 {
  border-style: solid;
@@ -186,7 +186,7 @@ h11 {
  padding-bottom: 0;
 }
 h10 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: normal;
   border-style: solid; 
@@ -202,7 +202,7 @@ h10 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 232px
+  padding-right: 243px
 }
 h12 {
  border-style: solid;
@@ -221,7 +221,7 @@ h12 {
  padding-bottom: 6px;
 }
 h13 {
-  font-size: 14px;
+  font-size: 10px;
   font-family: sans-serif;
   font-weight: bold;
   text-align: center;
