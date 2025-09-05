@@ -1,3 +1,6 @@
+* {
+  box-sizing: border-box;
+}
 body{
   background-image: url('/images/sonic1.jpg');
   image-rendering: optimizeSpeed;
@@ -57,7 +60,7 @@ h2 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 215px
+  padding-right: 211px
 }
 h4 {
  font-size: 10px;
@@ -168,7 +171,7 @@ h9 {
   padding: 5px;
   padding-top: 1px;
   padding-bottom: 1px;
-  padding-right: 213px
+  padding-right: 209px
 }
 h11 {
  border-style: solid;
