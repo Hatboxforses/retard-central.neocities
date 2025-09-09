@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-        <link rel="shortcut icon" type="image/x-icon" href="/images/Cover.ico">
+        <link rel="shortcut icon" type="image/jpeg" href="/images/monaco.jpg">
     <meta charset="UTF-8">
-  <title>Retard Central</title>
+  <title>Monaco Editor</title>
     </head>
     		<div id="container" style="min-width: 100vh;min-height: 92vh"></div>
 		<script src="./monaco-editor/min/vs/loader.js"></script>
@@ -12,7 +12,7 @@
 
 			require(['vs/editor/editor.main'], function () {
 				var editor = monaco.editor.create(document.getElementById('container'), {
-					value: ['hello what a beautiful day it is', 'to be a text editor!'].join('\n'),
+					value: ['hello what a beautiful day it is', 'to be a text editor!', 'The website source code is', 'available on Github!', 'https://github.com/Hatboxforses/retard-central.neocities'].join('\n'),
 					language: 'text'
 				});
 			});
