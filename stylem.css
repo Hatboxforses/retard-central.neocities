@@ -1,5 +1,12 @@
-body{
-  background-image: url('/images/sonic2.jpeg')
+* {
+  box-sizing: border-box;
+}
+body {
+  background-image: url(./images/sonic2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  image-rendering: optimizeSpeed;
+  text-rendering: optimizeSpeed;
 }
 img {
   image-rendering: optimizeSpeed;
