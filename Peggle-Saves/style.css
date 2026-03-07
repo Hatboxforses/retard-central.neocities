@@ -1,15 +1,9 @@
-* {
-  box-sizing: border-box;
-}
 body{
   background-image: url('./images/peggleepic.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   image-rendering: optimizeSpeed;
   text-rendering: optimizeSpeed;
-}
-a {
-  text-decoration: none;
 }
 h1 {
   font-size: 57px;
@@ -27,5 +21,51 @@ h1 {
   padding-bottom: 1px;
 }
 h2 {
-  padding-left: 40%;
+  margin-top: 0;
+  margin-left: 32%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h6 {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h3 {
+  margin-top: 0;
+  margin-left: 36%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h7 {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h4 {
+  margin-top: 0;
+  margin-left: 40%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h8 {
+  margin-top: 0;
+  margin-left: 10%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h5 {
+  margin-top: 0;
+  margin-left: 40%;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
 }
