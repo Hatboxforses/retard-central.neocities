@@ -3,7 +3,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   image-rendering: pixelated;
-  text-rendering: pixelated;
+  text-rendering: optimizeSpeed;
 }
 h1 {
   font-size: 0.8vw;
@@ -56,7 +56,7 @@ h2 {
   padding: 0.5vw;
   padding-top: 0;
   padding-bottom: 0;
-  padding-right: 16.35vw;
+  padding-right: 16.3vw;
 }
 h4 {
  font-size: 0.8vw;
@@ -94,7 +94,7 @@ h5 {
   padding: 0.5vw;
   padding-top: 0;
   padding-bottom: 0;
-  padding-right: 49vw;
+  padding-right: 48.46vw;
 }
 h6 {
  height: 3vw;
@@ -169,10 +169,10 @@ h9 {
   padding: 0.5vw;
   padding-top: 0;
   padding-bottom: 0;
-  padding-right: 16.35vw;
+  padding-right: 16.3vw;
 }
 h11 {
- height: 24vw;
+ height: 23.6vw;
  width: 18.8vw;
  border-style: solid;
  margin-top:0;
@@ -186,7 +186,7 @@ h11 {
  background-color: #c0c0c0;
  padding: 0.27vw;
  padding-top: 0;
- padding-bottom: 0;
+ padding-bottom: 0.3vw;
 }
 h10 {
   font-size: 0.8vw;
@@ -194,7 +194,7 @@ h10 {
   font-weight: normal;
   border-style: solid; 
   margin-top: 0;
-  margin-left: 0;
+  margin-left: 0.05vw;
   margin-right: 0;
   margin-bottom: 0;
   display: inline-block;
@@ -221,7 +221,7 @@ h12 {
  background-color: #c0c0c0;
  padding: 0.55vw;
  padding-top: 0.1vw;
- padding-bottom: 0.6vw;
+ padding-bottom: 0.3vw;
 }
 h13 {
   font-size: 0.8vw;
