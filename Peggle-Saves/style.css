@@ -1,7 +1,7 @@
 body{
   background-image: url('./images/peggleepic.jpg');
   background-repeat: no-repeat;
-  background-size: 225vh;
+  background-size: cover;
   image-rendering: optimizeSpeed;
   text-rendering: optimizeSpeed;
 }
