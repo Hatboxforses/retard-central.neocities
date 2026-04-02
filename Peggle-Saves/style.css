@@ -1,7 +1,7 @@
 body{
   background-image: url('./images/peggleepic.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 225vh;
   image-rendering: optimizeSpeed;
   text-rendering: optimizeSpeed;
 }
@@ -29,7 +29,7 @@ h2 {
 }
 h6 {
   margin-top: 0;
-  margin-left: 10vw;
+  margin-left: 5vw;
   margin-right: 0;
   margin-bottom: 0;
   display: inline-block;
@@ -43,7 +43,7 @@ h3 {
 }
 h7 {
   margin-top: 0;
-  margin-left: 10vw;
+  margin-left: 5vw;
   margin-right: 0;
   margin-bottom: 0;
   display: inline-block;
@@ -57,14 +57,21 @@ h4 {
 }
 h8 {
   margin-top: 0;
-  margin-left: 12vw;
+  margin-left: 7vw;
   margin-right: 0;
   margin-bottom: 0;
   display: inline-block;
 }
 h5 {
   margin-top: 0;
-  margin-left: 25vw;
+  margin-left: 38vw;
+  margin-right: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+h9 {
+  margin-top: 0;
+  margin-left: 5vw;
   margin-right: 0;
   margin-bottom: 0;
   display: inline-block;
